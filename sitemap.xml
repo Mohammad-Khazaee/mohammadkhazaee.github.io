@@ -1,1 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>http://example.org/</loc><lastmod>2022-07-09T00:11:34+04:30</lastmod><priority>0</priority></url><url><loc>http://example.org/posts/my-first-post/</loc><lastmod>2022-07-09T00:11:34+04:30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url><url><loc>http://example.org/posts/</loc><lastmod>2022-07-09T00:11:34+04:30</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url><url><loc>http://example.org/about/</loc><priority>0</priority></url><url><loc>http://example.org/categories/</loc><changefreq>monthly</changefreq><priority>0.5</priority></url><url><loc>http://example.org/tags/</loc><changefreq>monthly</changefreq><priority>0.5</priority></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-03-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+    <lastmod>1970-01-01T03:53:21+03:30</lastmod>
+  </url><url>
+    <loc>/categories/%D8%AA%D9%87%D8%B1%D8%A7%D9%86/</loc>
+    <lastmod>1970-01-01T03:53:21+03:30</lastmod>
+  </url><url>
+    <loc>/blog/1970/01/%DA%86%D8%B1%D8%A7-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%AC%D8%A7%DB%8C-%D8%A8%D8%AF%DB%8C-%D9%87%D8%B3%D8%AA/</loc>
+    <lastmod>1970-01-01T03:53:21+03:30</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>1970-01-01T03:53:21+03:30</lastmod>
+  </url><url>
+    <loc>/about/</loc>
+    <lastmod>1401-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/</loc>
+  </url><url>
+    <loc>/tags/</loc>
+  </url>
+</urlset>
